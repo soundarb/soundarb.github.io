@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Blog
+  url: /blog/
+
+- title: Projects
+  url: /projects/
+
+- title: Music
+  url: /music/
+
+- title: Gallery
+  url: /gallery/
+
+- title: About Me
+  url: /about/
