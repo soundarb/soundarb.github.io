@@ -31,7 +31,7 @@ A great composer’s music needs to create an emotional response.  If it is blan
 
 Composers can work anywhere from 60-120 hours a week depending on the difficulty of the project.  You have to be willing to put in the time!
 
-### Ue good technique and a high level of skill
+### Use good technique and a high level of skill
 
 To be considered a great composer, your music must be structurally sound and it must be harmonically interesting.  It does not hurt to go to school so that you can understand the mechanics of music.  Besides, college can help you get your foot in the door of the industry with the things you learn and the people you meet!  
 
