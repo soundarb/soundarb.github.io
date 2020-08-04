@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java CompletableFuture internals
-category: blog
+category: tech
 comments: true
 published: true
 excerpt: Grokking over Java async programming tool

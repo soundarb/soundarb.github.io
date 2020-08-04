@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best-of-Breed vs Integrated Systems
-category: blog
+category: tech
 comments: true
 excerpt: Plan your own itinerary or take a packaged tour
 tags: null

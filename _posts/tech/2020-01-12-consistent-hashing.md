@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consistent Hashing
-category: blog
+category: tech
 comments: true
 excerpt: A distributed hashing scheme that operates independently
 tags:

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Music
-excerpt: 'Singer, Keyboardist, Trinity Music Exams Coach'
+title: Tech
+excerpt: Tech Blogs by Balaji Soundararajan
 ---
 
 <div>
   <ul>
-    {% for post in site.categories['music'] %}
+    {% for post in site.categories['tech'] %}
         {% if post.url %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li><br>
         {% endif %}

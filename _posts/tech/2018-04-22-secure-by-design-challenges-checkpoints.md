@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Secure by Design - Challenges and Checkpoints
-category: blog
+category: tech
 comments: true
 excerpt: Design to build from the ground up to secure
 tags: null

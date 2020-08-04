@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Engineer, Musician
+title: Techie, Musician
 locale: en_US
 url: http://localhost:4000
 base:
@@ -52,7 +52,7 @@ kramdown:
 owner:
   name: Balaji Soundararajan
   avatar: bio-photo.jpg
-  bio: "Software Engineer, Musician, Blogger"
+  bio: "Techie, Musician, Blogger"
   email: reachme@balajisoundar.com
   disqus-shortname: Balaji
   twitter: bsoundarr

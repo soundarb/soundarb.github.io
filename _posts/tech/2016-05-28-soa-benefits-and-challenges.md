@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOA Benefits and Challenges
-category: blog
+category: tech
 comments: true
 published: true
 excerpt: Architectural design approach for loose coupling

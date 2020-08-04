@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Piano Exercises to strengthen your fingers
-category: blog
+category: music
 comments: true
 published: true
 excerpt:
