@@ -13,4 +13,4 @@ tags: music
   <figcaption></figcaption>
 </figure>
 
-[Download Mp3]({{ site.url }}/ost/Mounaragam-1986-movie-ost.mp3)
+[Download Mp3]({{ site.url }}/ost/MounaRagam-1986-movie-ost.mp3)
