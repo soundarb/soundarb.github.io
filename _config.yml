@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Techie, Musician
+title: Technology Evangelist
 locale: en_US
 url: https://balajisoundar.com
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Balaji Soundararajan
   avatar: bio-photo.jpg
-  bio: "Techie, Musician, Blogger"
+  bio: "Technology Evangelist, Musician, Blogger"
   email: reachme@balajisoundar.com
   disqus-shortname: Balaji
   twitter: bsoundarr
