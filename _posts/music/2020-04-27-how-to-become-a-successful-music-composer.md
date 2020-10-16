@@ -3,7 +3,7 @@ layout: post
 title: How to become a successful music composer
 category: music
 comments: true
-published: true
+published: false
 excerpt:
 tags: music
 ---
